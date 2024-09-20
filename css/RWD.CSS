@@ -1,0 +1,19 @@
+@media only screen and (min-width:360px)and (max-width:800px)
+{
+
+  .imagew
+  {
+      width:90vw;
+      height:60vh;
+  }
+  .text
+{
+    text-align:center;
+}
+
+.text2{
+background-color:#1F316F ;
+width: 90vw;
+}
+
+}
